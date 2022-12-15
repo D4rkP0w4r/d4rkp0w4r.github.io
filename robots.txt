@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://d4rkp0w4r.github.io/sitemap.xml
